@@ -71,14 +71,6 @@ Then open the local URL (usually [http://localhost:8501](http://localhost:8501))
 
 ---
 
-## 🧑‍💻 Developer  
-**👨‍🎓 Karthik Reddy M**  
-🎓 *B.Tech in Data Science Engineering* – Amrita Sai Institute of Science & Technology, Vijayawada (2022–2025)  
-📊 *Aspiring Data Analyst / Data Scientist*  
-💻 Skilled in Python, OpenCV, Streamlit, NumPy, Pandas, Scikit-learn, and more.  
-
----
-
 ## 📫 Contact & Collaboration  
 
 📧 **Email:** [reddykarthik14728@gmail.com](mailto:reddykarthik14728@gmail.com)   
